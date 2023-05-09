@@ -17,7 +17,10 @@ git clone https://github.com/<your-github-username>/cpp-programming.git
 
 ## Code Structure
 The code in this repository is organized into directories based on topic. Here is a brief overview of each directory:
-
+ Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
 basics: Contains basic C++ programs, such as hello world and simple arithmetic operations.
 arrays: Contains programs related to arrays, such as sorting and searching algorithms.
 linked-lists: Contains programs related to linked lists, such as inserting and deleting nodes.
